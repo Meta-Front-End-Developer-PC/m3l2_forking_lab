@@ -1,3 +1,3 @@
 Laura
-California
+The Earth
 Meta Certificate
