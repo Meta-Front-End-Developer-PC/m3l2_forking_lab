@@ -2,4 +2,4 @@ Ryan
 
 Arkansas
 
-Front-end Developer
+Front-end Developer Certificate
