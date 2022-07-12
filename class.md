@@ -1,0 +1,3 @@
+Rodrigo
+Barcelona, Spain
+Backend
