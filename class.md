@@ -1,2 +1,1 @@
-Konstantine Berulava
-Version Control Certificate under Meta Front-End Developer Professional Certificate
+Konstantine Berulava - Version Control Certificate under Meta Front-End Developer Professional Certificate
