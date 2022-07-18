@@ -1,2 +1,2 @@
-# Max Brych
-The meta front-end course
+# Meta Front-End Course
+Max Brych
